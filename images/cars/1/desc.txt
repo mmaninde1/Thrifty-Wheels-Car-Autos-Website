@@ -1,0 +1,33 @@
+<div class="_249mSX"><dt class="aHpS63 undefined">Dealer's Price:</dt>
+<dd class="_5grpKY undefined"><strong>$35,495</strong></dd>
+<dt class="aHpS63 undefined">Location:</dt>
+<dd class="_5grpKY undefined"><span>Timmins, ON<br>193 km away</span></dd>
+<dt class="aHpS63 undefined">Mileage:</dt>
+<dd class="_5grpKY undefined">3,781 kilometres</dd>
+<dt class="aHpS63 undefined">Transmission:</dt>
+<dd class="_5grpKY undefined">Continuously Variable Transmission</dd>
+<dt class="aHpS63 undefined">Exterior Color:</dt>
+<dd class="_5grpKY undefined">White</dd>
+<dt class="aHpS63 undefined">Interior Color:</dt>
+<dd class="_5grpKY undefined">Black</dd>
+<dt class="aHpS63 undefined">Maximum Seating:</dt>
+<dd class="_5grpKY undefined">5 seats</dd>
+<dt class="aHpS63 undefined">Fuel Economy:</dt>
+<dd class="_5grpKY undefined"><p>8.7 L/100km City</p><p>7.1 L/100km Highway</p></dd>
+<dt class="aHpS63 undefined">Engine:</dt>
+<dd class="_5grpKY undefined">I4</dd>
+<dt class="aHpS63 undefined">Drivetrain:</dt>
+<dd class="_5grpKY undefined">All-Wheel Drive</dd>
+<dt class="aHpS63 undefined">Fuel Type:</dt>
+<dd class="_5grpKY undefined">Gasoline</dd>
+<dt class="aHpS63 undefined">VIN:</dt>
+<dd class="_5grpKY undefined">2HKRW2H94KH130664</dd>
+<dt class="aHpS63 undefined">Stock #:</dt>
+<dd class="_5grpKY undefined">K575A</dd>
+<dt class="aHpS63 undefined">Major Options:</dt>
+<dd class="_5grpKY undefined">Leather Seats, Sunroof/Moonroof, Navigation System, Bluetooth, Backup Camera, Aluminum Wheels, Remote Start</dd>
+<dt class="aHpS63 undefined">Certified:</dt>
+<dd class="_5grpKY undefined">Yes</dd>
+<dt class="aHpS63 undefined">Dealer:</dt>
+<dd class="_5grpKY undefined"><a href="/Cars/m-Timmins-Nissan-sp355710">Timmins Nissan</a></dd>
+</div>
